@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Daniel Bernard
 Nilda Chery <br />
 Paulina Acosta <br />
 Alex Borrero <br />
